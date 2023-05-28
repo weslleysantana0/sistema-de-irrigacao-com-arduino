@@ -2,7 +2,7 @@
 
 Este é um exemplo de um sistema de irrigação controlado por Arduino. O sistema usa um Arduino Uno, um módulo de relé, um sensor de umidade do solo e uma bomba de água para automatizar a irrigação de plantas com base na umidade do solo.
 
-![Imagem do Sistema de Irrigação](imagem.png)
+![Imagem do Sistema de Irrigação]([imagem.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcapsistema.com.br%2Findex.php%2F2022%2F02%2F02%2Fsistema-de-irrigacao-automatico-usando-um-arduino-uno%2F&psig=AOvVaw0ZskqYfIDCyzAgPt3WSv2m&ust=1685388868758000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj5vfrgmP8CFQAAAAAdAAAAABAE))
 
 ## Componentes Necessários
 
